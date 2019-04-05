@@ -26,10 +26,14 @@ Ontwerpen in patronen betekent een consistentere en meer samenhangende ervaring.
 Dat betekent dat klanten je website sneller en eenvoudiger bedrijpen.
 Dus meer conversie.
 
-Het typische element hierin zijn knoppen
+Het typische element hierin zijn knoppen.
+
+Hieronder een voorbeeld van hoe het mis kan gaan, wat ten dele onze schuld, ten dele die van de klant is.
 
 *Vitasys knoppen*
 ![vitasys knoppen](http://indrukwekkend.nl/presentatie-sjerp/vitasys-knoppen.png)
+
+Hieronder een voorbeeld van patronen.
 
 *46 van knoppen*
 ![46 van knoppen](http://indrukwekkend.nl/presentatie-sjerp/46-van-knoppen.png)
