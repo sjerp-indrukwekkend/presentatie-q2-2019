@@ -32,12 +32,15 @@ Ontwerpen in patronen betekent dat programmeurs vaker brokstukken kunnen herbrui
 Ook hoeven programmeurs minder na te denken over wat een ontwerper bedoelt omdat ze, net als een bezoeker, patronen herkennen. 
 
 *Hero voorbeeld*
+
 ![hero](http://indrukwekkend.nl/presentatie-sjerp/hero.png)
 
 *rij knoppen*
+
 ![hero](http://indrukwekkend.nl/presentatie-sjerp/rij-knoppen.png)
 
 *Dit kostte 15 minuten*
+
 [Indrukwekkend blog](https://indrukwekkend.nl/blog/)
 
 
