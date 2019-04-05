@@ -7,8 +7,10 @@ Componenten zijn de heetheid. Wat is het waarom zijn we er mee bezig?
 ## Wat zijn patronen en componenten?
 
 In de basis: herbruikbare stukken ontwerp en code. 
+
 In de praktijk: Een consistente set kleuren. Een consistente set knoppen, formulieren, headers.
-Het betekent het een andere manier van denken. In plaats van een knop die hier oranje-x padding-y en typografie-z terwijl z'n broertje op de volgende pagina een net andere oranje, net andere padding en net andere typografie heeft... gaan we aanvaarden en internaliseren waar computers voor uitgevonden zijn: repetetieve taken uitvoeren. 
+
+Het betekent het een andere manier van denken. In plaats van een knop die hier oranje-x padding-y en typografie-z terwijl z'n broertje op de volgende pagina een net andere oranje, net andere padding en net andere typografie heeft... gaan we aanvaarden en internaliseren waar computers voor uitgevonden zijn: repetitieve taken uitvoeren. Vooraf gedefinieerde ontwerp-patronen worden algemeen toegepast. Websites bestaan uit legoblokken in plaats van unieke elementen.
 
 ## 5 redenen voor patronen & componenten
 
