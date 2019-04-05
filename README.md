@@ -12,6 +12,10 @@ In de praktijk: Een consistente set kleuren. Een consistente set knoppen, formul
 
 Het betekent het een andere manier van denken. In plaats van een knop die hier oranje-x padding-y en typografie-z terwijl z'n broertje op de volgende pagina een net andere oranje, net andere padding en net andere typografie heeft... gaan we aanvaarden en internaliseren waar computers voor uitgevonden zijn: repetitieve taken uitvoeren. Vooraf gedefinieerde ontwerp-patronen worden algemeen toegepast. Websites bestaan uit legoblokken in plaats van unieke elementen.
 
+### Ontwerp & online werken er samen aan
+Michel is bijvoorbeeld bezig met software om 'patroonbibliotheken' te maken / genereren.
+Ik ben bezig geweest om een componentenbibliotheek te programmeren en die [vind je ook op github](https://github.com/indrukwekkend/WP-componenten).
+
 ## 5 redenen voor patronen & componenten
 
 1) Bevorderen de consistentie van je website.
