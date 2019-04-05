@@ -43,6 +43,8 @@ Hieronder een voorbeeld van patronen.
 Ontwerpen in patronen betekent dat programmeurs vaker brokstukken kunnen herbruiken.
 Ook hoeven programmeurs minder na te denken over wat een ontwerper bedoelt omdat ze, net als een bezoeker, patronen herkennen. 
 
+Dit betekent dat de 'moeilijke logica' (in een ideale wereld) maar één keer geschreven hoeft te worden en het in elkaar klikken van een site 'slechts' een implementatie wordt - iets wat iedereen kan op ons eiland.
+
 *Hero voorbeeld*
 
 ![hero](http://indrukwekkend.nl/presentatie-sjerp/hero.png)
@@ -72,6 +74,8 @@ Door het aantal 'unieke punten' terug te brengen wordt testen eenvoudiger. Een c
 ### Patronen & toekomst
 
 Door vanaf een patronenbibliotheek te werken ben je toekomstbestendiger. Als enkelvoudige-waarheidsbron is het een referentiebron. Wijzigingen doorvoeren is eenduidiger. Aan de programmeerkant bubbelen wijzigingen ook naar hun juiste plek omhoog als ze in een component worden toegepast. Zo is de code is beter te beheren. 
+
+Doordat dezelfde code vaker wordt gebruikt, en het bij ieder gebruik verbeterd wordt, worden langzaam de componenten sterker.
 
 ## Snappen we componenten en patronen nu?
 Nee. Dit wordt een leer- en ontdekkingstocht waarbij we allemaal onze rol hebben te spelen en we ondogmatisch met huidige en nieuwe kennis om dienen te gaan. Er is geen ruimte voor traditie op het web.
